@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AZERCELL_PROJECT1
+Implementation-Version: 1.0
+Permissions: sandbox
+Codebase: *
+JavaFX-Version: 8.0
+Created-By: JavaFX Packager
+Implementation-Vendor: AminShixalizade
+Main-Class: azercell_project1.AZERCELL_PROJECT1
+
